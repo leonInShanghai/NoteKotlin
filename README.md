@@ -7,5 +7,5 @@ kotlin开发的笔记
 + 深耕老的技术同时也应该不断学习新的技术
 
 <div align="center">
-<img src="https://github.com/leonInShanghai/noteKotlin/blob/master/picture/demo.gif?raw=true" >
+<img src="https://github.com/leonInShanghai/noteKotlin/blob/master/picture/demo.gif?raw=true" alt="示例图">
 </div>
