@@ -9,3 +9,5 @@ kotlin开发的笔记
 <div align="center">
 <img src="https://github.com/leonInShanghai/noteKotlin/blob/master/picture/demo.gif?raw=true" alt="示例图">
 </div>
+
+<a href="https://github.com/leonInShanghai/noteKotlin/blob/master/app/release/app-release.apk" target="_blank">apk下载地址</a>
